@@ -56,6 +56,37 @@ youtube-summarizer/
 ├── requirements.txt       # Python dependencies
 └── README.md             # This file
 ```
+### Technologies Used in YouTube Video Summarizer
+#### Programming Language
+
+Python 3.7+ - Core programming language for the entire application
+
+#### Web Framework
+
+Streamlit - Python web framework for creating the user interface and web application
+
+#### Artificial Intelligence
+
+Google Gemini AI - Advanced language model for generating intelligent video summaries
+google-genai - Official Python client library for Google Gemini API integration
+
+#### APIs & External Services
+
+YouTube Transcript API - Service for extracting video transcripts and captions
+youtube-transcript-api - Python library for accessing YouTube's transcript data
+
+#### Python Libraries
+
+python-dotenv - Environment variable management for secure API key storage
+re (regex) - Built-in Python library for URL pattern matching and video ID extraction
+urllib.parse - Built-in Python library for URL validation and parsing
+os - Built-in Python library for environment variable access
+
+#### Development Tools
+
+VS Code - Recommended code editor for development
+pip - Python package manager for installing dependencies
+
 ### File Contents
 #### app.py
 ```
